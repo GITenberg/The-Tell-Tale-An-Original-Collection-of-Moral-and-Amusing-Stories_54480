@@ -1,11 +1,16 @@
 _repo: The-Tell-Tale-An-Original-Collection-of-Moral-and-Amusing-Stories_54480
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54480-h/images/cover.jpg
 creator:
   author:
     agent_name: Traill, Catherine Parr Strickland
     gutenberg_agent_id: '47893'
     url: http://www.gutenberg.org/2009/agents/47893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54480#The-Tell-Tale-An-Original-Collection-of-Moral-and-Amusing-Stories
 gutenberg_issued: '2017-04-03'
 gutenberg_type: Text
 identifiers:
